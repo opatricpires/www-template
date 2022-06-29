@@ -1,16 +1,12 @@
 ## Welcome ✌🏽
+
 If you're here you probably are searching for a next template and you find it. 🥳
-This is my template, I usually use it in my personal projects and some company projects.
+This is my simple template, I usually use it in my personal projects and some company projects.
 
 ## What's inside 📦
+
 - Next.js
 - Typescript
-- Styled-components
-- Styled-icons
-- Styled-media-query
-- Storybook;
-- React-testing-library;
-- Jest;
 - Prettier;
 - Eslint;
 - Lint-staged;
